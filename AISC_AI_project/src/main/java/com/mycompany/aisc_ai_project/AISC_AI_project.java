@@ -18,5 +18,6 @@ public class AISC_AI_project {
         System.out.println("Hello jojo!");
         System.out.println("Hello hello!");
 	System.out.println("Hello Java");
+        System.out.println("Hello Lolo");
     }
 }
