@@ -15,6 +15,5 @@ public class AISC_AI_project {
         System.out.println("Hello World!");
         System.out.println("Hello Python!");
         System.out.println("Hello World!");
-        System.out.println("Hello Jojo!");
     }
 }
